@@ -1,0 +1,1 @@
+After running `hello-world.js`, in a browser, navigate to `http://localhost:3000`
