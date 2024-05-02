@@ -1,1 +1,4 @@
-After running `hello-world.js`, in a browser, navigate to `http://localhost:3000`
+```console
+node hello-world.js
+```
+In a browser, navigate to `http://localhost:3000`
