@@ -1,0 +1,14 @@
+{
+  "name": "day009",
+  "version": "1.0.0",
+  "description": "```console npm install express node static-files-w-express.js ```",
+  "main": "static-files-w-express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

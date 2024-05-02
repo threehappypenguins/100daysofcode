@@ -1,0 +1,14 @@
+{
+  "name": "day008",
+  "version": "1.0.0",
+  "description": "```console node handling-POST-requests.js ``` In a browser, navigate to `http://localhost:3000/home`. Notice that `http://localhost:3000/` throws a 404 error.",
+  "main": "handling-POST-requests.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
