@@ -1,4 +1,5 @@
 ```console
+npm install axios
 node npm-basics-axios.js
 ```
 
