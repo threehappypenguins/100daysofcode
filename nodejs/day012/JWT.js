@@ -30,10 +30,11 @@ app.get('/protected', verifyToken, (req, res) => {
 
 // Middleware to verify JWT token
 function verifyToken(req, res, next) {
-    const token = req.headers.authorization;
-    if (!token) {
+    const authHeader = req.headers.authorization;
+    if (!authHeader) {
         return res.status(401).send('Access denied. No token provided.');
     }
+    const token = authHeader.split(' ')[1];
     jwt.verify(token, process.env.SECRET_KEY, (err, decoded) => {
         if (err) {
             return res.status(401).send('Access denied. Invalid token.');

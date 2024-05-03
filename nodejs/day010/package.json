@@ -1,0 +1,14 @@
+{
+  "name": "day010",
+  "version": "1.0.0",
+  "description": "```console npm install express node query-parameters.js ```",
+  "main": "query-parameters.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

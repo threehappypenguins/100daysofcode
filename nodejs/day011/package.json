@@ -1,0 +1,14 @@
+{
+  "name": "day011",
+  "version": "1.0.0",
+  "description": "```console npm install express node restful-API.js ```",
+  "main": "restful-API.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
