@@ -1,0 +1,16 @@
+{
+  "name": "day016",
+  "version": "1.0.0",
+  "description": "```console npm install express express-session node sessions-cookies.js ```",
+  "main": "sessions-cookies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}
