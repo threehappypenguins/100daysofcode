@@ -1,5 +1,5 @@
 [Install Mongo Database](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/) (change according to whatever OS you're on)
-``console
+```console
 npm install mongodb
 ```
 Set database path to be within project folder:
