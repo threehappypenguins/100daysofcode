@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Define the upload directory
-const uploadDir = 'day017-uploads/';
+const uploadDir = 'uploads/';
 
 // Create uploads directory if it doesn't exist
 if (!fs.existsSync(uploadDir)) {
@@ -35,6 +35,3 @@ app.post('/upload', upload.single('file'), (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`)
 });
-
-// To test:
-// curl -X POST -F "file=@./day009-public/images/penguin.jpg" http://localhost:3000/upload
