@@ -1,0 +1,14 @@
+{
+  "name": "day013",
+  "version": "1.0.0",
+  "description": "[Install Mongo Database](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/) (change according to whatever OS you're on) ``console npm install mongodb ``` Set database path to be within project folder: ```console mongod --dbpath ./mongoDB In another console, start script: ``` node CRUDopmongoDB.js ```",
+  "main": "CRUDopmongoDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.5.0"
+  }
+}
