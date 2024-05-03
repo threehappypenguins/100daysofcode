@@ -1,5 +1,15 @@
 ```console
 npm install dotenv
+```
+
+Sample `.env` file (with dummy API key):
+```console
+PORT=4000
+DB_HOST=127.0.0.1
+API_KEY=1b88538c-127f-4103-a82d-80c373df0666
+```
+
+```console
 node environment-var.js
 ```
 
