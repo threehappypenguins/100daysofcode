@@ -1,6 +1,5 @@
 ```console
-npm install express
-npm install jsonwebtoken
+npm install express jsonwebtoken
 export SECRET_KEY=your_secret_key_here
 node JWT.js
 ```
