@@ -1,0 +1,14 @@
+{
+  "name": "day014",
+  "version": "1.0.0",
+  "description": "```console npm install express node exp-mid-error-handling.js ``` Set database path to be within project folder: ```console mongod --dbpath ./mongoDB ```",
+  "main": "exp-mid-error-handling.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
