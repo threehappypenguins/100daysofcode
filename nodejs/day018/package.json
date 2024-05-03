@@ -1,0 +1,14 @@
+{
+  "name": "day018",
+  "version": "1.0.0",
+  "description": "```console npm install dotenv node environment-var.js ```",
+  "main": "environment-var.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

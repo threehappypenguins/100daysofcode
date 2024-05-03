@@ -1,5 +1,5 @@
 // Load environment variables from .env.day018 file
-require('dotenv').config({ path: '.env.day018' });
+require('dotenv').config();
 
 // Access environment variables
 const PORT = process.env.PORT || '3000';
