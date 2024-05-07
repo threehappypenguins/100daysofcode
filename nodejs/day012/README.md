@@ -6,7 +6,7 @@ node JWT.js
 *Note: sub `your_secret_key_here` with key of choice.
 
 In another console:
-console```
+```console
 curl -X POST -H "Content-Type: application/json" -d '{"username": "user1", "password": "your_secret_key_here"}' http://localhost:3000/login
 ```
 *Note: sub `your_secret_key_here` with key of choice.
