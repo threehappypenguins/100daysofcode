@@ -1,0 +1,16 @@
+{
+  "name": "day028",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.10.4",
+    "graphql-tag": "^2.12.6"
+  }
+}
