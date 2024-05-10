@@ -1,0 +1,16 @@
+{
+  "name": "day027",
+  "version": "1.0.0",
+  "description": "```console npm install swagger-jsdoc swagger-ui-express ```",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
