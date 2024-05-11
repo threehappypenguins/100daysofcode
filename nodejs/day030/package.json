@@ -1,0 +1,15 @@
+{
+  "name": "day030",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sendemail.js",
+  "scripts": {
+    "start": "node sendemail.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemailer": "^6.9.13"
+  }
+}
