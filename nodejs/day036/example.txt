@@ -1,0 +1,4 @@
+This is an example text file.
+It contains multiple lines of text.
+Each line is a chunk of data that will be streamed.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
