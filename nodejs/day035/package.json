@@ -1,0 +1,17 @@
+{
+  "name": "day035",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.10.4",
+    "express": "^4.19.2",
+    "graphql": "^16.8.1",
+    "graphql-tag": "^2.12.6"
+  },
+  "type": "module"
+}
