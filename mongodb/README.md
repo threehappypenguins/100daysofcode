@@ -1,0 +1,1 @@
+This repo is all about me learning to code. In this particular folder, I am showcasing my learning of MongoDB.
