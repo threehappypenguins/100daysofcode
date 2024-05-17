@@ -1,0 +1,1 @@
+This repo is all about me learning to code. In this particular folder, I am showcasing my learning of React.js. I decided to utilize a Monorepo for this particular setup, so that for each day, I execute `yarn create react-app .`
