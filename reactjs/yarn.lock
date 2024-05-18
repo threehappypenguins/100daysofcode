@@ -3782,6 +3782,22 @@
   "resolved" "file:day008"
   "version" "0.1.0"
   dependencies:
+    "react" "^18.3.1"
+    "react-dom" "^18.3.1"
+    "react-scripts" "5.0.1"
+
+"day009@file:/home/sarah/100daysofcode/reactjs/day009":
+  "resolved" "file:day009"
+  "version" "0.1.0"
+  dependencies:
+    "react" "^18.3.1"
+    "react-dom" "^18.3.1"
+    "react-scripts" "5.0.1"
+
+"day010@file:/home/sarah/100daysofcode/reactjs/day010":
+  "resolved" "file:day010"
+  "version" "0.1.0"
+  dependencies:
     "cra-template" "1.2.0"
     "react" "^18.3.1"
     "react-dom" "^18.3.1"
