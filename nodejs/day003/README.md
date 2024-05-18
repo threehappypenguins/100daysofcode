@@ -1,3 +1,6 @@
+<h1>Day 3 - NPM Basics</h1>
+<h3>Initialize a new Nodejs project using npm init and install a package</h3>
+
 ```console
 npm install axios
 node npm-basics-axios.js

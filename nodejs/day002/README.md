@@ -1,3 +1,6 @@
+<h1>Day 2 - Basic Modules</h1>
+<h3>Learn and use built-in modules like fs (File System) and http</h3>
+
 ```console
 node basic-modules.js
 ```

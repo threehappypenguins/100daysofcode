@@ -1,3 +1,6 @@
+<h1>Day 10 - Query Parameters</h1>
+<h3>Handle query parameters in an Express app</h3>
+
 ```console
 npm install express
 node query-parameters.js
